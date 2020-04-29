@@ -1,0 +1,56 @@
+{
+  "1. Energy": {
+    "A. Fuel combustion (sectoral approach)": [
+      "1.  Energy industries",
+      "2.  Manufacturing industries and construction",
+      "3.  Transport",
+      "4.  Other sectors",
+      "5.  Other"
+    ],
+    "B. Fugitive emissions from fuels": [
+      "1.  Solid fuels",
+      "2.  Oil and natural gas and other emissions from energy production"
+    ],
+    "C. CO2 transport and storage": []
+  },
+  "2.  Industrial Processes": [
+    "A.  Mineral industry",
+    "B.  Chemical industry",
+    "C.  Metal industry",
+    "D.  Non-energy products from fuels and solvent use",
+    "E.  Electronic industry",
+    "F.  Product uses as ODS substitutes",
+    "G.  Other product manufacture and use ",
+    "H.  Other "
+  ],
+  "3.  Agriculture": [
+    "A.  Enteric fermentation",
+    "B.  Manure management",
+    "C.  Rice cultivation",
+    "D.  Agricultural soils",
+    "E.  Prescribed burning of savannas",
+    "F.  Field burning of agricultural residues",
+    "G.  Liming",
+    "H.  Urea application",
+    "I.  Other carbon-containing fertilizers",
+    "J.  Other "
+  ],
+  "4. Land use, land-use change and forestry": [
+    "A.  Forest land",
+    "B.  Cropland",
+    "C.  Grassland",
+    "D.  Wetlands",
+    "E.  Settlements ",
+    "F.  Other land",
+    "G.  Harvested wood products",
+    "H.  Other       "
+  ],
+  "5.  Waste": [
+    "A.  Solid waste disposal ",
+    "B.  Biological treatment of solid waste",
+    "C.  Incineration and open burning of waste",
+    "D.  Waste water treatment and discharge",
+    "E.  Other "
+  ],
+  "6.  Other (as specified in summary 1.A)": []
+}
