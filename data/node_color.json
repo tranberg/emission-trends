@@ -47,5 +47,7 @@
   "B.  Biological treatment of solid waste": "rgba(140,86,75, .7)",
   "C.  Incineration and open burning of waste": "rgba(140,86,75, .7)",
   "D.  Waste water treatment and discharge": "rgba(140,86,75, .7)",
-  "E.  Other ": "rgba(140,86,75, .7)"
+  "E.  Other ": "rgba(140,86,75, .7)",
+  "fugitive1": "rgba(255,127,14, .7)",
+  "fugitive2": "rgba(255,127,14, .3)"
 }
