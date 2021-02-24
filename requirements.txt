@@ -2,5 +2,5 @@ chart_studio
 jupyter
 pandas
 plotly
-xlrd
+openpyxl
 psutil
